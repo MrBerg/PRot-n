@@ -1,4 +1,4 @@
 PRot-n
 ======
 
-A Rot-n implementation
+A Rot-n implementation in Python
